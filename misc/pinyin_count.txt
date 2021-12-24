@@ -11,6 +11,7 @@ de 1 1
 di 1
 diao 1
 dong 1
+er 1
 fan 1
 gei 1
 gen 1
@@ -41,7 +42,8 @@ rong 1
 ru 4
 shi 1 1 1
 shide 1
-suo 1
+sui 1
+suo 2
 ti 1
 tian 3
 tie 2
@@ -59,6 +61,7 @@ xuan 1
 yang 1
 yao 3
 yi 4
+you 1
 yu 1
 zai 2 1
 zhao 2
