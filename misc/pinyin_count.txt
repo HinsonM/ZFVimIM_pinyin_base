@@ -5,6 +5,7 @@ ban 2
 bin 1
 chang 1
 chu 1
+ci 1
 d 7
 dang 1
 dao 2
@@ -14,6 +15,7 @@ diao 1
 dong 1
 er 1
 fan 1
+fen 1
 fu 1
 gei 1
 gen 1
