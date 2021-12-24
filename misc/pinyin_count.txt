@@ -71,7 +71,7 @@ yang 1
 yao 4
 yi 4
 you 1
-yu 1
+yu 2
 zai 5 2
 ze 2
 zhao 2
