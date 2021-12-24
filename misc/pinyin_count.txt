@@ -13,6 +13,7 @@ diao 1
 dong 1
 er 1
 fan 1
+fu 1
 gei 1
 gen 1
 hou 1
@@ -69,3 +70,4 @@ ze 1
 zhao 2
 zhen 1
 zhong 2 1
+zhu 1
