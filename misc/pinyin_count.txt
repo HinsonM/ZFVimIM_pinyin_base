@@ -2,6 +2,7 @@ a 1
 ai 1
 an 1
 ban 2
+bin 1
 chang 1
 chu 1
 d 7
