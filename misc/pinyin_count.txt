@@ -50,9 +50,9 @@ tian 3
 tie 2
 tong 2
 tu 2
-wa 1
-wawei 1
-wei 2
+wa 2
+wawei 2
+wei 3
 wo 4
 wu 1
 xi 2
