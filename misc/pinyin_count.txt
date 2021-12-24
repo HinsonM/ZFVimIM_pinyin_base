@@ -58,16 +58,18 @@ wo 4
 wu 1
 xi 2
 xia 4
-xu 2
+xing 1
+xu 3
 xuan 1
 yang 1
-yao 3
+yao 4
 yi 4
 you 1
 yu 1
-zai 4 1
-ze 1
+zai 5 2
+ze 2
 zhao 2
 zhen 1
+zhi 1
 zhong 2 1
 zhu 1
