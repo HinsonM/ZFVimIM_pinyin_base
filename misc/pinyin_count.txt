@@ -3,6 +3,7 @@ ai 1
 an 1
 ban 2
 bin 1
+cha 1
 chang 1
 chu 1
 ci 1
@@ -24,7 +25,7 @@ huan 2
 hui 1
 ji 1
 jia 2
-jian 2
+jian 3
 jie 1
 jin 3
 jing 1
