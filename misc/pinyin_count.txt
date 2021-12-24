@@ -29,10 +29,12 @@ jizhong 1
 ke 2
 lai 1
 lao 1
+ling 1
 lun 2
 luo 1
 ma 1
 men 2
+ming 1
 mo 1
 mochuxuan 1
 na 2
@@ -40,7 +42,7 @@ nei 1
 ni 7
 o 2
 rong 1
-ru 5
+ru 6
 she 1
 shi 1 1 1
 shide 1
@@ -57,7 +59,7 @@ wei 3
 wo 4
 wu 1
 xi 2
-xia 5
+xia 6
 xing 1
 xu 3
 xuan 1
