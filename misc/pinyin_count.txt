@@ -23,6 +23,7 @@ fu 1
 gei 1
 gen 1
 gou 2
+he 1
 hou 1
 huan 2
 hui 1
