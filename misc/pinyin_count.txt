@@ -1,7 +1,7 @@
 a 1
 ai 1
 an 1
-ban 2
+ban 3
 bin 1
 ca 1
 cao 1
@@ -22,6 +22,7 @@ fen 1
 fu 1
 gei 1
 gen 1
+gong 1
 gou 2
 he 1
 hou 1
@@ -59,7 +60,7 @@ sui 1
 suo 2
 ti 1
 tian 3
-tie 2
+tie 3
 tong 2
 tu 2
 wa 2
@@ -75,10 +76,12 @@ xuan 1
 yang 1
 yao 4
 yi 4
+yong 1
 you 2 1
 yu 2
 zai 5 2
 ze 2
+zhan 1
 zhao 2
 zhen 1
 zhi 1
