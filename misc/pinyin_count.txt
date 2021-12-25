@@ -22,7 +22,7 @@ fen 1
 fu 1
 gei 1
 gen 1
-gou 1
+gou 2
 hou 1
 huan 2
 hui 1
@@ -46,7 +46,7 @@ mo 1
 mochuxuan 1
 na 2
 nei 1
-neng 1
+neng 2
 ni 8
 o 2
 rong 1
@@ -74,7 +74,7 @@ xuan 1
 yang 1
 yao 4
 yi 4
-you 1 1
+you 2 1
 yu 2
 zai 5 2
 ze 2
