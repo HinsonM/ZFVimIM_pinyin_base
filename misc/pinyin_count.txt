@@ -5,7 +5,7 @@ ban 3
 bin 1
 ca 1
 cao 1
-cha 1
+cha 2
 chang 1
 chu 1
 ci 1
@@ -30,7 +30,7 @@ huan 2
 hui 1
 ji 1
 jia 2
-jian 3
+jian 4
 jie 1
 jin 3
 jing 1
@@ -54,7 +54,7 @@ o 2
 rong 1
 ru 6
 she 1
-shi 1 1 1
+shi 2 2 1
 shide 1
 sui 1
 suo 2
