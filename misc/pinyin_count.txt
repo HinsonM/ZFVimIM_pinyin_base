@@ -77,12 +77,12 @@ xing 1
 xu 3
 xuan 1
 yang 1
-yao 4
+yao 5
 yi 4
 yong 1
 you 2 1
 yu 2
-zai 5 2
+zai 6 3
 ze 2
 zhan 1
 zhao 2
