@@ -15,6 +15,7 @@ dao 2
 de 1 1
 di 2
 diao 1
+ding 1
 dong 1
 er 1
 fan 1
@@ -52,7 +53,7 @@ neng 2
 ni 8
 o 2
 qian 1
-que 1
+que 2
 rong 1
 ru 6
 she 1
