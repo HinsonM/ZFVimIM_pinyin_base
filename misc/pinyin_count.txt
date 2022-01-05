@@ -88,6 +88,6 @@ zhan 1
 zhao 2
 zhen 1
 zhi 1
-zhong 4 3
+zhong 4 4
 zhongzhong 1
 zhu 1
