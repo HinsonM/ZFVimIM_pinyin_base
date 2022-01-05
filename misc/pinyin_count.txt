@@ -82,7 +82,7 @@ yi 4
 yong 1
 you 2 1
 yu 2
-zai 6 3
+zai 7 3
 ze 2
 zhan 1
 zhao 2
