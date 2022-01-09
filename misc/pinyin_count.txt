@@ -9,14 +9,14 @@ cha 2
 chang 1
 chu 1
 ci 1
-d 8
+d 10
 dang 1
 dao 2
 de 1 1
 di 2
 diao 1
 ding 1
-dong 1
+dong 2
 er 1
 fan 1
 fen 1
@@ -36,13 +36,16 @@ jie 1
 jin 3
 jing 1
 jizhong 1
+kan 1
 ke 2
 lai 1
 lao 1
+li 1
 ling 1
 lun 2
 luo 1
 ma 1
+mei 1 1
 men 2
 ming 1
 mo 1
@@ -87,6 +90,7 @@ zai 7 4
 ze 2
 zhan 1
 zhao 2
+zhe 1
 zhen 1
 zhi 1
 zhong 4 4
